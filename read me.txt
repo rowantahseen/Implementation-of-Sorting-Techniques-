@@ -1,0 +1,5 @@
+To run project:
+
+1.Choose TestingSort class.
+2.Run
+3.Enter data size in console.
