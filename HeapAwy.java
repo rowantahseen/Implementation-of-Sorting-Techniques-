@@ -5,10 +5,6 @@
  */
 package pkj1;
 
-/**
- *
- * @author Nevine
- */
 import java.util.Random;
 import java.util.Scanner;
 
